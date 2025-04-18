@@ -98,7 +98,7 @@ public class HelloWorld {
 
     - target/hello-1.0.jar was created
 
-    - The build was successfu
+    - The build was successful
 
 ## Screenshot Examples
 ![alt text](T8-1.png)
